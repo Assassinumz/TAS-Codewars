@@ -1,11 +1,4 @@
 # Python Question Set
-<style>
-h4 {
-    font-weight: bold;
-    text-decoration: underline;
-}
-</style>
-
 
 <h4>Question 1</h4>
 What is the output of the following code snippet :
