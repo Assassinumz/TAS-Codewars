@@ -327,5 +327,177 @@ Provide an algorithm to find the HCF of 2 numbers, more efficient algorithm carr
 
 <h4> Question 30</h4>
 A 100-seater flight is about to take off. Each of the 100 passengers are waiting to enter, holding a ticket corresponding to their seat number. You are last in line, the 100th. One of the people in front of you is crazy (but you don't know which one) and will sit in a random empty sear (which might even be his assigned seat). The other passengers will continue to sit in their seats, unless it is alredy occupied, in which case theu go crazy too and sit in a random empty seat. Assuming they don't behave like your typical crowd and get in one by one without a stampede, what is the probability that you'll sit in assigned seat
+<br><br>
 
+# Solutions
 
+<h4> Solution 1</h4>
+Answer: (C) Type Error
+<br>
+<br>
+
+<h4> Solution 2</h4>
+Answer: (A) 2
+<br>
+<br>
+
+<h4> Solution 3</h4>
+Answer: CODEWARS
+<br>
+<br>
+
+<h4> Solution 4</h4>
+Answer: <br>
+4<br>
+3<br>
+2<br>
+1
+<br>
+<br>
+
+<h4> Solution 5</h4>
+Answer: n
+<br>
+<br>
+
+<h4> Solution 6</h4>
+Answer: (B) [x for x in range(1000) if x%3==0]
+<br>
+<br>
+
+<h4> Solution 7</h4>
+Answer: N/A
+<br>
+<br>
+
+<h4> Solution 8</h4>
+Answer: False
+<br>
+<br>
+
+<h4> Solution 9</h4>
+Answer: (D) Syntax error
+<br>
+<br>
+
+<h4> Solution 10</h4>
+Answer: 
+
+```python
+def Func(string):
+    return string.split() 
+```
+<br>
+
+<h4> Solution 11</h4>
+Answer: 24
+<br>
+<br>
+
+<h4> Solution 12</h4>
+Answer: 4
+<br>
+<br>
+
+<h4> Solution 13</h4>
+Answer: (D) None of these
+
+<br>
+<br>
+
+<h4> Solution 14</h4>
+Answer: N/A
+<br>
+<br>
+
+<h4> Solution 15</h4>
+Answer: (A) i i i i i....
+<br>
+<br>
+
+<h4> Solution 16</h4>
+Answer: (C) <class 'str'>
+
+<br>
+<br>
+
+<h4> Solution 17</h4>
+Answer: (C) [3,5,20,5,25,1,3]
+<br>
+<br>
+
+<h4> Solution 18</h4>
+Answer: 23
+<br>
+<br>
+
+<h4> Solution 19</h4>
+Answer: .title()
+<br>
+<br>
+
+<h4> Solution 20</h4>
+Answer: (C) from mainpackage.subpackage import module
+
+<br>
+<br>
+
+<h4> Solution 21</h4>
+Answer: (C) 242
+
+<br>
+<br>
+
+<h4> Solution 22</h4>
+Answer: N/A
+
+<br>
+<br>
+
+<h4> Solution 23</h4>
+Answer: (A) 125
+
+<br>
+<br>
+
+<h4> Solution 24</h4>
+Answer: N/A
+
+<br>
+<br>
+
+<h4> Solution 25</h4>
+Answer: N/A
+
+<br>
+<br>
+
+<h4> Solution 26</h4>
+Answer: 2
+
+<br>
+<br>
+
+<h4> Solution 27</h4>
+Answer: N/A
+
+<br>
+<br>
+
+<h4> Solution 28</h4>
+Answer: (B) Tuesday
+
+<br>
+<br>
+
+<h4> Solution 29 </h4>
+Answer: N/A
+
+<br>
+<br>
+
+<h4> Solution 30 </h4>
+Answer: N/A
+
+<br>
+<br>
