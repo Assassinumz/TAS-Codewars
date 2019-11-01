@@ -14,10 +14,10 @@ There were 2 rounds, we had 1 hour to solve 30 questions in the first round and 
 
 The preliminary(first round) was just a pen and paper round with some MCQs on programming language of your choice (Python, C++, C, Java) and Aptitude questions, you're expected to solve 30 questions in 1 hour and the first 50 teams with the highest score/marks qualify for the finals(second round), In case of a tie in the score between two teams, the team which has submitted their solutions first will be considered.
 
-I've provided the questions and solutions in PDF and Markdown format, solutions for the questions can be found at the end. Click on the links below for the writeup
+I've provided the questions and solutions in Markdown format, solutions for the questions can be found at the end. Click on the links below for the writeup
 <br>
 <br>
-[C++]()
+[C++](https://github.com/Assassinumz/TAS-Codewars/tree/master/Preliminary/C%2B%2B)
 <br>
 [Python](https://github.com/Assassinumz/TAS-Codewars/tree/master/Preliminary/Python)
 
