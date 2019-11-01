@@ -25,13 +25,13 @@ I've provided the questions and solutions in Markdown format, solutions for the 
 The final round was well organized and the challenges were provided in [hackerearth](https://www.hackerearth.com). Every team had 2 hours 30 minutes from their start time to solve 10 challenges.<br><br>
 The solutions were to be submitted in hackerearth and they were tested with a few automated test inputs, the allowed languages were again Python, C++, C & Java. The challenges ranged from 5-20 points. Click on the links below for the challenges and their solutions.<br><br>
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. [Coin Thief](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Coin%20Thief.md)
+2. [Cows and Fodder](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Cows%20and%20Fodder.md)
+3. [Football](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Football.md)
+4. [Maze Rescue](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Maze%20Rescue.md)
+5. [Meta Strings](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Meta%20Strings.md)
+6. [Min and Max](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Min%20and%20Max.md)
+7. [Reducer](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Reducer.md)
+8. [Remove Disparity](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/Remove%20Disparity.md)
+9. [String Search](https://github.com/Assassinumz/TAS-Codewars/blob/master/Finals/String%20Search.md)
 10.
