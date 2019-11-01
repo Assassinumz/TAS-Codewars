@@ -28,9 +28,9 @@ A single line containing the highest score of a candidate.
 0 <= Ai, Bi <= 10
 SAMPLE INPUT
 
-1
-2
-3 1
+1<br>
+2<br>
+3 1<br>
 1 1
 
 SAMPLE OUTPUT

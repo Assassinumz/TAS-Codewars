@@ -31,8 +31,8 @@ For each test case, print "X Y" (without quotes, and single space seperated), de
 
 SAMPLE INPUT
 
-1
-0 0
+1<br>
+0 0<br>
 LUU
 
 SAMPLE OUTPUT

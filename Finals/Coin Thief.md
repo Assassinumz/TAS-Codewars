@@ -17,8 +17,8 @@ The second line of each test case contains N space separated values Ai, A2, A3, 
 <br><br>
 SAMPLE INPUT
 
-1
-5
+1<br>
+5<br>
 1 2 3 4 5
 
 SAMPLE OUTPUT

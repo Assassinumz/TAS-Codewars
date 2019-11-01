@@ -23,8 +23,8 @@ The second line consists of N space seperated integers indicating the number of 
 10 <= N <= 1000
 SAMPLE INPUT
 
-1
-5
+1<br>
+5<br>
 3 1 4 2 5
 
 SAMPLE OUTPUT
